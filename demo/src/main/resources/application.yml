@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://jdmanoj2025:medhir@medhir.j980k.mongodb.net/?retryWrites=true&w=majority&appName=Medhir
+      database: Employee
